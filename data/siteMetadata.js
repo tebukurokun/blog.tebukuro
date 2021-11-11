@@ -2,15 +2,15 @@ const siteMetadata = {
   title: 'tebukuro blog',
   author: 'tebukuro',
   headerTitle: 'tebukuroblog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'tebukuro blog',
   language: 'ja-jp',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://blog.tebukuro.tk/',
+  siteRepo: 'https://github.com/tebukurokun/blog.tebukuro',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
+  // email: 'address@yoursite.com',
+  github: 'https://github.com/tebukurokun',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
@@ -25,7 +25,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // Select a provider and use the environment variables associated to it

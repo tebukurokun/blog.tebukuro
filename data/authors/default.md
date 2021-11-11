@@ -1,20 +1,19 @@
 ---
 name: tebukuro
 avatar: /static/images/avatar.png
-occupation: Novice Programmer
+occupation: Software Developer
 company: Some Company in Japan
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/tebukurokun
 ---
-
 
 ## 自己紹介
 
 - 名前: tebukuro
-- サーバーサイドのアプリケーション開発を主にやっています。AWS上のインフラ構築・フロントエンド開発などもふんわりやってます。
+- サーバーサイドのアプリケーション開発を主にやっています。クラウド上のインフラ構築・フロントエンド開発などもやっています。
 - 都内在住
-- 20代
+- 20 代
 
 ### skills
 
@@ -24,7 +23,7 @@ github: https://github.com
   - Spring Boot, React, Vue, Next.js, Flask など
 - クラウド
   - AWS
-    - ECS, Lambda, Codepipeline, Cloudformation
+    - ECS, Lambda, Codepipeline, Cloudformation など
 
 ### Contacts
 

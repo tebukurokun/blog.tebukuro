@@ -38,8 +38,8 @@ cat address-new.csv
 
 - 同じ市区町村(10 カラム目)の行を削除
 
-最初に千代田区が読み込まれた後 colname['千代田区']がインクリメントされ 1 になる。
-つまり、!colname['千代田区'] は false となり、その後は出力されない。
+最初に千代田区が読み込まれた後 `colname['千代田区']`がインクリメントされ 1 になる。  
+つまり、`!colname['千代田区']` は false となり、その後は出力されない。
 
 ```shell
 cat address.csv | awk -F , '!colname[$10]++' > address-new.csv

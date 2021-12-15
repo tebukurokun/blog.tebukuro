@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'tebukuro blog',
   author: 'tebukuro',
-  headerTitle: 'tebukuroblog',
+  headerTitle: 'blog.tebukuro',
   description: 'tebukuro blog',
   language: 'ja-jp',
   siteUrl: 'https://blog.tebukuro.tk/',

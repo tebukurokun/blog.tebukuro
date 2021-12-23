@@ -33,3 +33,20 @@ github: https://github.com/tebukurokun
   - https://misskey.tebukuro.xyz/@te
 - mail
   - tebukuro-facebook @ yandex.ru
+
+## このサイトについて
+
+### 構成
+
+- [Vercel](https://vercel.com/)
+- テーマ: [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog">)
+
+### Privacy Policy
+
+当サイトでは、Google Analytics を利用しています。
+
+この Google Analytics はトラフィックデータの収集のために Cookie を使用しています。
+
+このトラフィックデータは匿名で収集されており、個人を特定するものではありません。
+
+この機能は Cookie を無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。

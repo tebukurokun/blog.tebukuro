@@ -1,5 +1,5 @@
 ---
-title: 'pythonの仮想環境たち'
+title: 'pythonの仮想環境(poetry, venv)'
 date: '2021-12-21'
 tags: ['python', 'virtualenv', 'poetry']
 draft: false

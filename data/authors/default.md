@@ -24,13 +24,11 @@ github: https://github.com/tebukurokun
 - クラウド
   - AWS
     - ECS, Lambda, Codepipeline, Cloudformation など
+- その他
+  - Docker, Nomad, Airflow, Swagger, MySQL など
 
 ### Contacts
 
-- mastodon
-  - https://tebukuro.xyz/@te
-- misskey
-  - https://misskey.tebukuro.xyz/@te
 - mail
   - tebukuro-facebook @ yandex.ru
 
@@ -41,12 +39,14 @@ github: https://github.com/tebukurokun
 - [Vercel](https://vercel.com/)
 - テーマ: [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog">)
 
-### Privacy Policy
+### Google Analytics について
 
-当サイトでは、Google Analytics を利用しています。
+当サイトでは、Google によるアクセス解析ツール「Google Analytics」を利用しています。
+Google Analytics は、トラフィックデータの収集のために Cookie を使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。この機能は Cookie を無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
+Google Analytics 利用規約、プライバシーポリシー、の詳細については、以下をご確認ください。
 
-この Google Analytics はトラフィックデータの収集のために Cookie を使用しています。
+[Google アナリティクス利用規約](https://marketingplatform.google.com/about/analytics/terms/jp/)
+[Google プライバシーポリシー](https://policies.google.com/privacy?hl=ja)
 
-このトラフィックデータは匿名で収集されており、個人を特定するものではありません。
-
-この機能は Cookie を無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
+Google Analytics でデータが収集・処理される仕組みについては、以下をご確認ください。
+[Google のサービスを使用するサイトやアプリから収集した情報の Google による使用](https://policies.google.com/technologies/partner-sites?hl=ja)
